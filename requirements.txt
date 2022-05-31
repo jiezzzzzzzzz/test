@@ -1,0 +1,2 @@
+holidays==0.13
+fast_bitrix24==1.5.4
